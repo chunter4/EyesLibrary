@@ -23,7 +23,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Chris Hunter",
-    author_email="<hunter.james.chris@gmail_dot_com>",
+    author_email="<hunter.james.chris@gmail.com>",
     url="https://github.com/chunter4/EyesLibrary",
     license="Apache License 2.0",
     keywords="robotframework testing testautomation eyes-selenium selenium appium visual-verification",
