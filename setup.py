@@ -17,7 +17,7 @@ with io.open("README.md", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="robotframework-eyeslibrary",
+    name="robotframework-applitoolseyeslibrary",
     version=__version__,
     description="Visual verification testing library for Robot Framework",
     long_description=long_description,
