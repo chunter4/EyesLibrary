@@ -17,14 +17,14 @@ with io.open("README.md", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="robotframework-eyeslibrary",
-    version=__version__,
+    name="robotframework-eyeslibrarysel3",
+    version="v2.4",
     description="Visual verification testing library for Robot Framework",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Chris Hunter",
     author_email="<hunter.james.chris@gmail.com>",
-    url="https://github.com/chunter4/EyesLibrary",
+    download_url="https://github.com/chunter4/EyesLibrary/archive/v2.4.tar.gz",
     license="Apache License 2.0",
     keywords="robotframework testing testautomation eyes-selenium selenium appium visual-verification",
     platforms="any",
